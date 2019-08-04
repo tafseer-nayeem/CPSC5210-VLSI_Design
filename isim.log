@@ -1,0 +1,45 @@
+ISim log file
+Running: H:\VLSI Design\CPSC 5210\Project #2\Project #2 (Source Files V2)\Stimulus_ALU_8Bit_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/Stimulus_ALU_8Bit_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   0  Op CODE=0000, A=00101000, B=00010100 --- RESULT=00111100, CARRY=0, OVERFLOW=0, NEG=0, ZERO=0
+
+                   5  Op CODE=0000, A=11110000, B=00010100 --- RESULT=00000100, CARRY=1, OVERFLOW=0, NEG=0, ZERO=0
+
+                  10  Op CODE=0000, A=10111010, B=10110000 --- RESULT=01101010, CARRY=1, OVERFLOW=1, NEG=0, ZERO=0
+
+                  15  Op CODE=0001, A=00011110, B=00010100 --- RESULT=00001010, CARRY=0, OVERFLOW=0, NEG=0, ZERO=0
+
+                  20  Op CODE=0001, A=00111100, B=01010000 --- RESULT=11101100, CARRY=1, OVERFLOW=0, NEG=1, ZERO=0
+
+                  25  Op CODE=0001, A=00011110, B=00011110 --- RESULT=00000000, CARRY=0, OVERFLOW=0, NEG=0, ZERO=1
+
+                  30  Op CODE=0010, A=00010001, B=00110011 --- RESULT=00010001, CARRY=0, OVERFLOW=0, NEG=0, ZERO=0
+
+                  35  Op CODE=0011, A=00010001, B=00110011 --- RESULT=00110011, CARRY=0, OVERFLOW=0, NEG=0, ZERO=0
+
+                  40  Op CODE=0100, A=00010001, B=00110011 --- RESULT=00100010, CARRY=0, OVERFLOW=0, NEG=0, ZERO=0
+
+                  45  Op CODE=0101, A=00010001, B=00110011 --- RESULT=11001100, CARRY=0, OVERFLOW=0, NEG=0, ZERO=0
+
+                  50  Op CODE=0110, A=00010001, B=00110011 --- RESULT=11011101, CARRY=0, OVERFLOW=0, NEG=0, ZERO=0
+
+                  55  Op CODE=0111, A=11111111, B=00000000 --- RESULT=11111111, CARRY=0, OVERFLOW=0, NEG=0, ZERO=0
+
+                  60  Op CODE=0111, A=11111111, B=00010000 --- RESULT=11111110, CARRY=0, OVERFLOW=0, NEG=0, ZERO=0
+
+                  65  Op CODE=0111, A=11111111, B=10110000 --- RESULT=00011111, CARRY=0, OVERFLOW=0, NEG=0, ZERO=0
+
+                  70  Op CODE=0111, A=11111111, B=11110000 --- RESULT=00000001, CARRY=0, OVERFLOW=0, NEG=0, ZERO=0
+
+                  75  Op CODE=1000, A=00010001, B=00110011 --- RESULT=xxxxxxxx, CARRY=0, OVERFLOW=0, NEG=0, ZERO=x
+

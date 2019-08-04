@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/Stimulus_ALU_8Bit_isim_beh.exe" -prj "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/Stimulus_ALU_8Bit_beh.prj" "work.Stimulus_ALU_8Bit" "work.glbl" 

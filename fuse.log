@@ -1,0 +1,58 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/Stimulus_ALU_8Bit_isim_beh.exe -prj H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/Stimulus_ALU_8Bit_beh.prj work.Stimulus_ALU_8Bit work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/mux_4_to_1_1Bit.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/MUX_2to1_1Bit.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/MUX_4to1_8Bit.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/MUX_2to1_8Bit.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/MUX_8to1_8Bit.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/HALFADD.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/xorOP.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/xnorOP.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/orOP.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/norOP.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/MUX_16to1_8Bit.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/FULLADD2_1Bit.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/andOP.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/ZERO_Test.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/SHIFTER_8Bit.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/LOGIC_UNIT_8Bit.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/FULLADD_SUB_8Bit.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/DECODER_4to16.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/ALU_8Bit.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/CONTROL_UNIT.v" into library work
+Analyzing Verilog file "H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/Stimulus_ALU_8Bit.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module DECODER_4to16
+Compiling module HALFADD
+Compiling module FULLADD2_1Bit
+Compiling module FULLADD_SUB_8Bit
+Compiling module andOP
+Compiling module orOP
+Compiling module xorOP
+Compiling module norOP
+Compiling module xnorOP
+Compiling module LOGIC_UNIT_8Bit
+Compiling module MUX_4to1_1Bit
+Compiling module MUX_4to1_8Bit
+Compiling module MUX_2to1_1Bit
+Compiling module MUX_2to1_8Bit
+Compiling module MUX_8to1_8Bit
+Compiling module MUX_16to1_8Bit
+Compiling module SHIFTER_8Bit
+Compiling module ZERO_Test
+Compiling module ALU_8Bit
+Compiling module CONTROL_UNIT
+Compiling module Stimulus_ALU_8Bit
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 8 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: The system cannot find the path specified, "isim\Stimulus_ALU_8Bit_isim_beh.exe.sim\libPortability.dll".
+Compiled 22 Verilog Units
+Built simulation executable H:/VLSI Design/CPSC 5210/Project #2/Project #2 (Source Files V2)/Stimulus_ALU_8Bit_isim_beh.exe
+Fuse Memory Usage: 27576 KB
+Fuse CPU Usage: 906 ms

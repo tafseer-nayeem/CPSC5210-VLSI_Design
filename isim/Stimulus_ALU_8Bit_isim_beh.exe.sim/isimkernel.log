@@ -1,0 +1,29 @@
+Command line:
+   Stimulus_ALU_8Bit_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49528
+
+Fri Apr 15 13:00:52 2016
+
+
+ Elaboration Time: 0.09375 sec
+
+ Current Memory Usage: 366.465 Meg
+
+ Total Signals          : 1567
+ Total Nets             : 1004
+ Total Signal Drivers   : 780
+ Total Blocks           : 170
+ Total Primitive Blocks : 136
+ Total Processes        : 783
+ Total Traceable Variables  : 20
+ Total Scalar Nets and Variables : 1120
+Total Line Count : 58
+
+ Total Simulation Time: 0.125 sec
+
+ Current Memory Usage: 523.76 Meg
+
+Fri Apr 15 13:02:43 2016
+
